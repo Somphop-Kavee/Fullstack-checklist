@@ -5,6 +5,7 @@
 ## ความรู้พื้นฐานของ Computer Science
 
 - [x] JavaScript
+- [x] Node.js
 - [x] Python
 - [ ] Java
 - [ ] C#
